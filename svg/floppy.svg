@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none">
+  <symbol id="floppy-svg" viewBox="0 0 40 40">
+    <g fill="currentColor">
+      <use href="#B"/>
+      <use href="#B" y="3"/>
+      <use href="#B" y="6"/>
+      <use href="#B" y="9"/>
+      <use href="#B" y="12"/>
+      <use href="#B" y="15"/>
+      <use href="#B" y="18"/>
+      <use href="#B" y="21"/>
+      <use href="#B" y="24"/>
+      <use href="#B" y="27"/>
+      <use href="#B" y="30"/>
+      <use href="#B" y="33"/>
+      <use href="#B" y="36"/>
+      <use href="#C"/>
+      <use href="#C" x="-3"/>
+      <use href="#C" x="-6"/>
+      <use href="#C" x="-9"/>
+      <use href="#C" x="-12"/>
+      <use href="#C" x="-15"/>
+      <use href="#C" x="-18"/>
+      <use href="#C" x="-21"/>
+      <use href="#C" x="-24"/>
+      <use href="#C" x="-27"/>
+      <use href="#C" x="3" y="3"/>
+      <use href="#C" x="-24" y="6"/>
+      <use href="#C" x="-24" y="3"/>
+      <use href="#C" x="-24" y="9"/>
+      <use href="#C" x="-3" y="6"/>
+      <use href="#C" x="-3" y="3"/>
+      <use href="#C" x="-3" y="9"/>
+      <use href="#C" x="-9" y="6"/>
+      <use href="#C" x="-9" y="3"/>
+      <use href="#C" x="-9" y="9"/>
+      <use href="#C" x="-3" y="12"/>
+      <use href="#C" x="-6" y="12"/>
+      <use href="#C" x="-9" y="12"/>
+      <use href="#C" x="-12" y="12"/>
+      <use href="#C" x="-15" y="12"/>
+      <use href="#C" x="-18" y="12"/>
+      <use href="#C" x="-21" y="12"/>
+      <use href="#C" x="-24" y="12"/>
+      <use href="#C" y="21"/>
+      <use href="#C" x="-3" y="21"/>
+      <use href="#C" x="-6" y="21"/>
+      <use href="#C" x="-9" y="21"/>
+      <use href="#C" x="-12" y="21"/>
+      <use href="#C" x="-15" y="21"/>
+      <use href="#C" x="-18" y="21"/>
+      <use href="#C" x="-21" y="21"/>
+      <use href="#C" x="-24" y="21"/>
+      <use href="#C" y="24"/>
+      <use href="#C" x="-24" y="24"/>
+      <use href="#C" y="27"/>
+      <use href="#C" x="-24" y="27"/>
+      <use href="#C" y="30"/>
+      <use href="#C" x="-24" y="30"/>
+      <use href="#C" x="-24" y="33"/>
+      <use href="#C" y="33"/>
+      <use href="#C" x="3" y="36"/>
+      <use href="#C" y="36"/>
+      <use href="#C" x="-3" y="36"/>
+      <use href="#C" x="-6" y="36"/>
+      <use href="#C" x="-9" y="36"/>
+      <use href="#C" x="-12" y="36"/>
+      <use href="#C" x="-15" y="36"/>
+      <use href="#C" x="-18" y="36"/>
+      <use href="#C" x="-21" y="36"/>
+      <use href="#C" x="-24" y="36"/>
+      <use href="#C" x="-27" y="36"/>
+      <use href="#D"/>
+      <use href="#D" y="-3"/>
+      <use href="#D" y="-6"/>
+      <use href="#D" y="-9"/>
+      <use href="#D" y="-12"/>
+      <use href="#D" y="-15"/>
+      <use href="#D" y="-18"/>
+      <use href="#D" y="-21"/>
+      <use href="#D" y="-24"/>
+      <use href="#D" y="-27"/>
+      <use href="#D" y="-30"/>
+    </g>
+  </symbol>
+
+  <defs>
+    <path id="B" d="M.5.5h3v3h-3z"/>
+    <path id="C" d="M33.5.5v3h-3v-3z"/>
+    <path id="D" d="M39.5 39.5h-3v-3h3z"/>
+  </defs>
+</svg>
